@@ -1,5 +1,3 @@
-# Encryption_Decryption_Text_Project
-
 # Caesar Cipher - Encrypt & Decrypt
 
 A simple GUI application to **encrypt and decrypt messages** using the Caesar Cipher technique.
