@@ -15,7 +15,7 @@ For example:
 
 ## 🖼️ Application Preview
 
-![Caesar Cipher GUI](./screenshot.png)
+![Caesar Cipher GUI](./screenshot.jpg)
 
 ## ✨ Features
 
