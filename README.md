@@ -33,7 +33,12 @@ For example:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/caesar-cipher-gui.git
-   cd caesar-cipher-gui
+   git clone https://github.com/sdave1226/Encryption_Decryption_Text.git
+   cd Encryption_Decryption_Text
+
+2. Run the app:
+   ```bash
+   python caesar_cipher_gui.py
+- Make sure you have Python installed on your system.
 
 
